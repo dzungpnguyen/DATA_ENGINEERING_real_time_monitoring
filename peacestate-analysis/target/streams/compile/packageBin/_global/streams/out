@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/gowgow/educations/m1-efrei/scala/Spark-Project/peacestate-analysis/target/scala-2.13/peacestate-analysis_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/gowgow/educations/m1-efrei/scala/Spark-Project/peacestate-analysis/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/gowgow/educations/m1-efrei/scala/Spark-Project/peacestate-analysis/target/scala-2.13/classes/com/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/project/peacestate[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/gowgow/educations/m1-efrei/scala/Spark-Project/peacestate-analysis/target/scala-2.13/classes/com/project/peacestate[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/project/peacestate/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/gowgow/educations/m1-efrei/scala/Spark-Project/peacestate-analysis/target/scala-2.13/classes/com/project/peacestate/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/project/peacestate/service/Analysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/gowgow/educations/m1-efrei/scala/Spark-Project/peacestate-analysis/target/scala-2.13/classes/com/project/peacestate/service/Analysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/project/peacestate/service/Analysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/gowgow/educations/m1-efrei/scala/Spark-Project/peacestate-analysis/target/scala-2.13/classes/com/project/peacestate/service/Analysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
